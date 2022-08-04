@@ -20,7 +20,9 @@
 -->
 ![welcome](https://user-images.githubusercontent.com/5669637/182803288-934fc857-ba53-4b96-b470-6ff6716d95fd.png)
 
-[![telegram](https://readme-typing-svg.herokuapp.com?background=FF071A&center=true&vCenter=true&width=370&lines=My+telegram%3A+%40thedimzone)](https://t.me/thedimzone)
+[![telegram](https://user-images.githubusercontent.com/5669637/182811843-76a0e066-e966-4208-b068-e2d20e01b693.svg)
+](https://t.me/thedimzone)
+
 
 ![wordart (1)](https://user-images.githubusercontent.com/5669637/182808503-0f930e1f-794e-4ae6-abbc-4c1239892459.png)
 

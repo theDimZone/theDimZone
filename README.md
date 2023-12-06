@@ -1,23 +1,9 @@
-<!--### Hi there 👋-->
 <!--<img src="https://user-images.githubusercontent.com/5669637/182784723-7bd5a226-dac9-4845-b5a4-8db42e1aa042.gif" width="135px" align="right">-->
 <!--
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
 -->
 <!--
-[![Telegram](https://img.shields.io/badge/-@thedimzone-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedimzone)
-[![Email](https://img.shields.io/badge/-thedimzone99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thedimzone99@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/thedimzone)
--->
-<!--
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/5669637/182784723-7bd5a226-dac9-4845-b5a4-8db42e1aa042.gif" width="135px">
-  <hr />
-  <img src="https://img.shields.io/badge/-@thedimzone-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <br />
-  <img src="https://img.shields.io/badge/-thedimzone99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
-</div>
--->
 ![welcome](https://user-images.githubusercontent.com/5669637/182803288-934fc857-ba53-4b96-b470-6ff6716d95fd.png)
 
 [![telegram](https://user-images.githubusercontent.com/5669637/182811843-76a0e066-e966-4208-b068-e2d20e01b693.svg)
@@ -33,3 +19,20 @@
   <br />
   <img src="https://user-images.githubusercontent.com/5669637/182803929-66d1e98a-0799-430b-90b1-8961e4cebe61.png" width="100px" />
 </div>
+-->
+<!--
+<p align="center">
+  <img src="https://github.com/theDimZone/theDimZone/assets/5669637/9ceac746-6a21-41fe-8fd1-1b394c1f2a31" width="600px">
+</p>
+<p align="center">
+  <img src="https://github.com/theDimZone/theDimZone/assets/5669637/847dd8ba-1792-447d-a5e8-00cfb46bf77f" width="600px">
+</p>
+-->
+<!--
+<p align="center">
+  <img src="https://media.tenor.com/2G5bGrqUyvAAAAAC/spyxfamily-anya.gif" width="600px">
+</p>
+-->
+<p align="center">
+  <img src="https://media.tenor.com/NpZ_tquTtxkAAAAC/vinland-saga-monday.gif" width="600px">
+</p>
